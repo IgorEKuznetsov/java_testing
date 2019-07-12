@@ -15,3 +15,7 @@ gradle-app.setting
 sandbox/build/classes/java/main/MyFirstProgram.class
 sandbox/build/libs/sandbox.jar
 sandbox/build/tmp/jar/MANIFEST.MF
+sandbox/build/distributions/sandbox.tar
+sandbox/build/distributions/sandbox.zip
+sandbox/build/scripts/sandbox
+sandbox/build/scripts/sandbox.bat
