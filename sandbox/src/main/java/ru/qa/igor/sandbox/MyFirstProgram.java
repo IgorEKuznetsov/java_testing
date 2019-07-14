@@ -12,11 +12,17 @@ public class MyFirstProgram {
       System.out.println(("Площадь квадрата со стороной ")+ a + " = " + area(a));
 
       System.out.println(y  + a + " = " + area(a));
-      
+      double c = 6;
+      double d = 8;
+      System.out.println("Площадь прямоугольника со сторонами " + c + " и " + d + " = " + area(c,d));
+
 
   }
       public static void hello(String smt) {
           System.out.println("Hello, " + smt);
+      }
+      public static double area(double a, double b){
+      return a * b;
       }
 
 
