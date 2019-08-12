@@ -7,7 +7,7 @@ repositories {
 
 dependencies {
     implementation 'org.testng:testng:7.0.0-beta7'
-    implementation 'com.applitools:eyes-selenium-java:2.57'
+    implementation 'com.applitools:eyes-selenium-java4:4.0.11'
     implementation 'com.katalon:com.katalon.platform.parent:1.0.12'
     implementation 'org.testcontainers:selenium:1.12.0'
 }
